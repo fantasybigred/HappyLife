@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <user id ="1">
+    <name>hongwenzhi</name>
+    <age>27</age>
+    <sex>male</sex>
+  </user>
+  <user id ="2">
+    <name>liuyvebo</name>
+    <age>27</age>
+    <sex>female</sex>
+  </user>
+</root>
